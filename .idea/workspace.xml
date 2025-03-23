@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be5e85e6-1c0f-47d4-a0cd-63ad8cbe1e79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaLanguageDSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +45,7 @@
     "Application.BST.executor": "Run",
     "Application.BalanceString.executor": "Run",
     "Application.Balance_Bracket.executor": "Run",
+    "Application.Basic.executor": "Run",
     "Application.BasicMap.executor": "Run",
     "Application.BasicSets.executor": "Run",
     "Application.BinaryString.executor": "Run",
@@ -193,11 +189,13 @@
     "Application.PrintSum1ToN.executor": "Run",
     "Application.Print_Element_nth_level.executor": "Run",
     "Application.Print_The_SubArray.executor": "Run",
+    "Application.Print_que_By_InbuildMethod.executor": "Run",
     "Application.ProductOfTreeNode.executor": "Run",
     "Application.Product_Day_1.executor": "Run",
     "Application.PushAtBottom.executor": "Run",
     "Application.PushNoOfZeroes.executor": "Run",
     "Application.Quicksorting.executor": "Run",
+    "Application.RemovetheEven_num_In_Queue.executor": "Run",
     "Application.Reverse.executor": "Run",
     "Application.ReverseLink.executor": "Run",
     "Application.ReverseStack.executor": "Run",
@@ -207,6 +205,7 @@
     "Application.ReveserDublyLinkedList.executor": "Run",
     "Application.RevresRecersively.executor": "Run",
     "Application.RomanToIntiger.executor": "Run",
+    "Application.RverseQue.executor": "Run",
     "Application.SCLL.executor": "Run",
     "Application.SVD.executor": "Run",
     "Application.Search.executor": "Run",
@@ -236,6 +235,7 @@
     "Application.SumOfTwoMarix.executor": "Run",
     "Application.Sum_Day_1.executor": "Run",
     "Application.SwapLastAndFirtsValueInTheLinkedlist.executor": "Run",
+    "Application.TCS_OA_1_2024.executor": "Run",
     "Application.Traceince.executor": "Run",
     "Application.Traisee.executor": "Run",
     "Application.TransformArray.executor": "Run",
@@ -263,6 +263,7 @@
     "Application.lbk.executor": "Run",
     "Application.mergearray.executor": "Run",
     "Application.mergetowarry.executor": "Run",
+    "Application.printQueue.executor": "Run",
     "Application.printpatter.executor": "Run",
     "Application.sb.executor": "Run",
     "Application.second.executor": "Run",
@@ -276,13 +277,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Minimu">
-    <configuration name="HashDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing.HashDemo1" />
+  <component name="RunManager" selected="Application.TCS_OA_1_2024">
+    <configuration name="Print_que_By_InbuildMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueuesDataStructure.Print_que_By_InbuildMethod" />
       <module name="javaLanguageDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hashing.*" />
+          <option name="PATTERN" value="QueuesDataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterationOnMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing.IterationOnMap" />
+    <configuration name="RemovetheEven_num_In_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueuesDataStructure.RemovetheEven_num_In_Queue" />
       <module name="javaLanguageDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hashing.*" />
+          <option name="PATTERN" value="QueuesDataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,19 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Minimu" />
-      <module name="javaLanguageDSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Smallest_Range_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksForGeeks.Smallest_Range_2" />
+    <configuration name="RverseQue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueuesDataStructure.RverseQue" />
       <module name="javaLanguageDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GeeksForGeeks.*" />
+          <option name="PATTERN" value="QueuesDataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,20 +317,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diamond" />
+    <configuration name="TCS_OA_1_2024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_competion_question.TCS_OA_1_2024" />
       <module name="javaLanguageDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coding_competion_question.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueuesDataStructure.printQueue" />
+      <module name="javaLanguageDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QueuesDataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Minimu" />
-        <item itemvalue="Application.diamond" />
-        <item itemvalue="Application.Smallest_Range_2" />
-        <item itemvalue="Application.IterationOnMap" />
-        <item itemvalue="Application.HashDemo1" />
+        <item itemvalue="Application.TCS_OA_1_2024" />
+        <item itemvalue="Application.printQueue" />
+        <item itemvalue="Application.RemovetheEven_num_In_Queue" />
+        <item itemvalue="Application.Print_que_By_InbuildMethod" />
+        <item itemvalue="Application.RverseQue" />
       </list>
     </recent_temporary>
   </component>
