@@ -127,6 +127,7 @@
     "Application.InversionCount (1).executor": "Run",
     "Application.InversionCount.executor": "Run",
     "Application.IterationOnMap.executor": "Run",
+    "Application.Kadans.executor": "Run",
     "Application.KthSmallestElementinUnsortedArray.executor": "Run",
     "Application.Leedcode2442.executor": "Run",
     "Application.Level.executor": "Run",
@@ -144,6 +145,7 @@
     "Application.Matrixmultiplaction.executor": "Run",
     "Application.MaxElement.executor": "Run",
     "Application.MaxOfTwo.executor": "Run",
+    "Application.MaxScore.executor": "Run",
     "Application.MazePath.executor": "Run",
     "Application.Merge.executor": "Run",
     "Application.MergeSort.executor": "Run",
@@ -265,11 +267,13 @@
     "Application.mergetowarry.executor": "Run",
     "Application.printQueue.executor": "Run",
     "Application.printpatter.executor": "Run",
+    "Application.removeDublicate.executor": "Run",
     "Application.sb.executor": "Run",
     "Application.second.executor": "Run",
     "Application.sel.executor": "Run",
     "Application.sq.executor": "Run",
     "Application.travarse.executor": "Run",
+    "Application.unicElement_sum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -277,13 +281,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TCS_OA_1_2024">
-    <configuration name="Print_que_By_InbuildMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QueuesDataStructure.Print_que_By_InbuildMethod" />
+  <component name="RunManager" selected="Application.MaxScore">
+    <configuration name="Kadans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_competion_question.Kadans" />
       <module name="javaLanguageDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QueuesDataStructure.*" />
+          <option name="PATTERN" value="Coding_competion_question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,25 +295,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemovetheEven_num_In_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QueuesDataStructure.RemovetheEven_num_In_Queue" />
+    <configuration name="MaxScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_competion_question.MaxScore" />
       <module name="javaLanguageDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QueuesDataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RverseQue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QueuesDataStructure.RverseQue" />
-      <module name="javaLanguageDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="QueuesDataStructure.*" />
+          <option name="PATTERN" value="Coding_competion_question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,12 +321,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QueuesDataStructure.printQueue" />
+    <configuration name="removeDublicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_competion_question.removeDublicate" />
       <module name="javaLanguageDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QueuesDataStructure.*" />
+          <option name="PATTERN" value="Coding_competion_question.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unicElement_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_competion_question.unicElement_sum" />
+      <module name="javaLanguageDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coding_competion_question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxScore" />
+        <item itemvalue="Application.unicElement_sum" />
+        <item itemvalue="Application.removeDublicate" />
+        <item itemvalue="Application.Kadans" />
         <item itemvalue="Application.TCS_OA_1_2024" />
-        <item itemvalue="Application.printQueue" />
-        <item itemvalue="Application.RemovetheEven_num_In_Queue" />
-        <item itemvalue="Application.Print_que_By_InbuildMethod" />
-        <item itemvalue="Application.RverseQue" />
       </list>
     </recent_temporary>
   </component>
