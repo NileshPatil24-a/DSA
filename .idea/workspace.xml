@@ -49,6 +49,7 @@
     "Application.BasicMap.executor": "Run",
     "Application.BasicSets.executor": "Run",
     "Application.BinaryString.executor": "Run",
+    "Application.Bitplusplus.executor": "Run",
     "Application.Bubbe.executor": "Run",
     "Application.BubbleSortDecreasingOrder.executor": "Run",
     "Application.BubbleSortedLevel3.executor": "Run",
@@ -114,6 +115,7 @@
     "Application.InsertAtBeginning (4).executor": "Run",
     "Application.InsertAtBeginning.executor": "Run",
     "Application.InsertAtBottom.executor": "Run",
+    "Application.InsertAtEnd.executor": "Run",
     "Application.InsertAtPosition.executor": "Run",
     "Application.InsertAtTailNode.executor": "Run",
     "Application.InsertElement (1).executor": "Run",
@@ -158,6 +160,7 @@
     "Application.MinimumNumberOfCoins.executor": "Run",
     "Application.Minimumnumber.executor": "Run",
     "Application.MissingElement2.executor": "Run",
+    "Application.MoastFreEvenElemt.executor": "Run",
     "Application.MountainArray.executor": "Run",
     "Application.NegativeCounter.executor": "Run",
     "Application.NegativeNumarrange.executor": "Run",
@@ -189,6 +192,8 @@
     "Application.PrintLinkedList.executor": "Run",
     "Application.PrintLinkedRecursiveli.executor": "Run",
     "Application.PrintNTo1.executor": "Run",
+    "Application.PrintRecursive.executor": "Run",
+    "Application.PrintStack.executor": "Run",
     "Application.PrintSubset.executor": "Run",
     "Application.PrintSum1ToN.executor": "Run",
     "Application.Print_Element_nth_level.executor": "Run",
@@ -241,6 +246,8 @@
     "Application.Sum_Day_1.executor": "Run",
     "Application.SwapLastAndFirtsValueInTheLinkedlist.executor": "Run",
     "Application.TCS_OA_1_2024.executor": "Run",
+    "Application.Team (1).executor": "Run",
+    "Application.Team.executor": "Run",
     "Application.Traceince.executor": "Run",
     "Application.Traisee.executor": "Run",
     "Application.TransformArray.executor": "Run",
@@ -270,8 +277,11 @@
     "Application.mergearray.executor": "Run",
     "Application.mergetowarry.executor": "Run",
     "Application.nextgrestaEmement.executor": "Run",
+    "Application.previousGrtestEleemnt.executor": "Run",
     "Application.printQueue.executor": "Run",
+    "Application.print_without_reverse.executor": "Run",
     "Application.printpatter.executor": "Run",
+    "Application.pushAtBottom.executor": "Run",
     "Application.removeDublicate.executor": "Run",
     "Application.sb.executor": "Run",
     "Application.second.executor": "Run",
@@ -286,9 +296,9 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NextGrestElement">
-    <configuration name="New_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_1.New_class" />
+  <component name="RunManager" selected="Application.pushAtBottom">
+    <configuration name="Balance_Bracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_1.Balance_Bracket" />
       <module name="javaLanguageDSA" />
       <extension name="coverage">
         <pattern>
@@ -300,8 +310,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextGrestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_1.NextGrestElement" />
+    <configuration name="PrintRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_1.PrintRecursive" />
       <module name="javaLanguageDSA" />
       <extension name="coverage">
         <pattern>
@@ -313,8 +323,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack_using_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_1.Stack_using_array" />
+    <configuration name="PrintStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_1.PrintStack" />
       <module name="javaLanguageDSA" />
       <extension name="coverage">
         <pattern>
@@ -326,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codechef_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_competion_question.codechef_2" />
+    <configuration name="print_without_reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_1.print_without_reverse" />
       <module name="javaLanguageDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coding_competion_question.*" />
+          <option name="PATTERN" value="Stack_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,12 +349,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nextgrestaEmement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_competion_question.nextgrestaEmement" />
+    <configuration name="pushAtBottom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_1.pushAtBottom" />
       <module name="javaLanguageDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coding_competion_question.*" />
+          <option name="PATTERN" value="Stack_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NextGrestElement" />
-        <item itemvalue="Application.nextgrestaEmement" />
-        <item itemvalue="Application.Stack_using_array" />
-        <item itemvalue="Application.codechef_2" />
-        <item itemvalue="Application.New_class" />
+        <item itemvalue="Application.pushAtBottom" />
+        <item itemvalue="Application.print_without_reverse" />
+        <item itemvalue="Application.PrintRecursive" />
+        <item itemvalue="Application.PrintStack" />
+        <item itemvalue="Application.Balance_Bracket" />
       </list>
     </recent_temporary>
   </component>
