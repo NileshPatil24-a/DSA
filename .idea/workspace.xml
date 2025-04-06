@@ -70,6 +70,7 @@
     "Application.Day_2_copy_same_Sequence.executor": "Run",
     "Application.Day_2_revrese.executor": "Run",
     "Application.DeleteOccurence.executor": "Run",
+    "Application.DeleteOdd.executor": "Run",
     "Application.DeleteTheMiddleOfLinkeList.executor": "Run",
     "Application.DeleteTheNthElementFormLstM_2.executor": "Run",
     "Application.DeleteTheNthElementFromLast.executor": "Run",
@@ -165,6 +166,7 @@
     "Application.NegativeCounter.executor": "Run",
     "Application.NegativeNumarrange.executor": "Run",
     "Application.New_class.executor": "Run",
+    "Application.NextGreater.executor": "Run",
     "Application.NextGreaterWithoutstack.executor": "Run",
     "Application.NextGrestElement.executor": "Run",
     "Application.Nilesh.executor": "Run",
@@ -206,6 +208,7 @@
     "Application.Quicksorting.executor": "Run",
     "Application.RemovetheEven_num_In_Queue.executor": "Run",
     "Application.Reverse.executor": "Run",
+    "Application.ReverseKelement.executor": "Run",
     "Application.ReverseLink.executor": "Run",
     "Application.ReverseStack.executor": "Run",
     "Application.ReverseStackRecorsevely.executor": "Run",
@@ -240,6 +243,8 @@
     "Application.StringCompression.executor": "Run",
     "Application.StringTraversing.executor": "Run",
     "Application.SubArray.executor": "Run",
+    "Application.Sum (1).executor": "Run",
+    "Application.Sum.executor": "Run",
     "Application.SumByRecursiveMethod.executor": "Run",
     "Application.SumCountpairswithgivensum.executor": "Run",
     "Application.SumOfTwoMarix.executor": "Run",
@@ -269,20 +274,26 @@
     "Application.codechef_2.executor": "Run",
     "Application.countNumber.executor": "Run",
     "Application.diamond.executor": "Run",
+    "Application.factorial.executor": "Run",
     "Application.heap.executor": "Run",
     "Application.in.executor": "Run",
+    "Application.infix.executor": "Run",
     "Application.iterattive.executor": "Run",
     "Application.lb.executor": "Run",
     "Application.lbk.executor": "Run",
     "Application.mergearray.executor": "Run",
     "Application.mergetowarry.executor": "Run",
     "Application.nextgrestaEmement.executor": "Run",
+    "Application.pracice.executor": "Run",
     "Application.previousGrtestEleemnt.executor": "Run",
+    "Application.print1tonrecursion.executor": "Run",
     "Application.printQueue.executor": "Run",
     "Application.print_without_reverse.executor": "Run",
+    "Application.printnto1.executor": "Run",
     "Application.printpatter.executor": "Run",
     "Application.pushAtBottom.executor": "Run",
     "Application.removeDublicate.executor": "Run",
+    "Application.removedubcate.executor": "Run",
     "Application.sb.executor": "Run",
     "Application.second.executor": "Run",
     "Application.sel.executor": "Run",
@@ -296,79 +307,49 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.pushAtBottom">
-    <configuration name="Balance_Bracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_1.Balance_Bracket" />
+  <component name="RunManager" selected="Application.pracice">
+    <configuration name="Sum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum" />
       <module name="javaLanguageDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_1.PrintRecursive" />
+    <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factorial" />
       <module name="javaLanguageDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_1.PrintStack" />
+    <configuration name="pracice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pracice" />
       <module name="javaLanguageDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="print_without_reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_1.print_without_reverse" />
+    <configuration name="print1tonrecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="print1tonrecursion" />
       <module name="javaLanguageDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pushAtBottom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_1.pushAtBottom" />
+    <configuration name="printnto1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="printnto1" />
       <module name="javaLanguageDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pushAtBottom" />
-        <item itemvalue="Application.print_without_reverse" />
-        <item itemvalue="Application.PrintRecursive" />
-        <item itemvalue="Application.PrintStack" />
-        <item itemvalue="Application.Balance_Bracket" />
+        <item itemvalue="Application.pracice" />
+        <item itemvalue="Application.Sum (1)" />
+        <item itemvalue="Application.printnto1" />
+        <item itemvalue="Application.print1tonrecursion" />
+        <item itemvalue="Application.factorial" />
       </list>
     </recent_temporary>
   </component>
