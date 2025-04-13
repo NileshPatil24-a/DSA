@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="be5e85e6-1c0f-47d4-a0cd-63ad8cbe1e79" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Maxtimeappeear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maxtimeappeear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tree_data_Structure" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree_data_Structure" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tree_data_Structure/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree_data_Structure/BST.java" afterDir="false" />
     </list>
@@ -222,6 +221,7 @@
     "Application.ReversiveOrderOfLinkrdList.executor": "Run",
     "Application.ReveserDublyLinkedList.executor": "Run",
     "Application.RevresRecersively.executor": "Run",
+    "Application.RevrseString.executor": "Run",
     "Application.RomanToIntiger.executor": "Run",
     "Application.RverseQue.executor": "Run",
     "Application.SCLL.executor": "Run",
@@ -313,7 +313,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FirstDemo">
+  <component name="RunManager" selected="Application.RevrseString">
     <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tree_data_Structure.BST" />
       <module name="javaLanguageDSA" />
@@ -360,8 +360,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pracice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pracice" />
+    <configuration name="RevrseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RevrseString" />
       <module name="javaLanguageDSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -369,11 +369,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RevrseString" />
         <item itemvalue="Application.FirstDemo" />
         <item itemvalue="Application.Maxtimeappeear" />
         <item itemvalue="Application.BSTClass" />
         <item itemvalue="Application.BST" />
-        <item itemvalue="Application.pracice" />
       </list>
     </recent_temporary>
   </component>
