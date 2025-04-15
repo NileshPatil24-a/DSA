@@ -136,6 +136,7 @@
     "Application.IterationOnMap.executor": "Run",
     "Application.Kadans.executor": "Run",
     "Application.KthSmallestElementinUnsortedArray.executor": "Run",
+    "Application.KthSort.executor": "Run",
     "Application.Leedcode2442.executor": "Run",
     "Application.Level.executor": "Run",
     "Application.Levels.executor": "Run",
@@ -162,6 +163,9 @@
     "Application.Merge_Two_Sorted_Array.executor": "Run",
     "Application.MiddleOfLinkList.executor": "Run",
     "Application.MiddleOfListM_2.executor": "Run",
+    "Application.MinHeapImplemenation (1).executor": "Run",
+    "Application.MinHeapImplemenation (2).executor": "Run",
+    "Application.MinHeapImplemenation.executor": "Run",
     "Application.Minimu.executor": "Run",
     "Application.MinimumNumberOfCoins.executor": "Run",
     "Application.Minimumnumber.executor": "Run",
@@ -313,35 +317,9 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RevrseString">
-    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree_data_Structure.BST" />
-      <module name="javaLanguageDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tree_data_Structure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BSTClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree_data_Structure.BSTClass" />
-      <module name="javaLanguageDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tree_data_Structure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heaps.FirstDemo" />
+  <component name="RunManager" selected="Application.MinHeapImplemenation (2)">
+    <configuration name="KthSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.KthSort" />
       <module name="javaLanguageDSA" />
       <extension name="coverage">
         <pattern>
@@ -353,9 +331,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maxtimeappeear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Maxtimeappeear" />
+    <configuration name="MinHeapImplemenation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.MinHeapImplemenation" />
       <module name="javaLanguageDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinHeapImplemenation (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.MinHeapImplemenation" />
+      <module name="javaLanguageDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinHeapImplemenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.MinHeapImplemenation" />
+      <module name="javaLanguageDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -369,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinHeapImplemenation (2)" />
+        <item itemvalue="Application.MinHeapImplemenation (1)" />
+        <item itemvalue="Application.MinHeapImplemenation" />
+        <item itemvalue="Application.KthSort" />
         <item itemvalue="Application.RevrseString" />
-        <item itemvalue="Application.FirstDemo" />
-        <item itemvalue="Application.Maxtimeappeear" />
-        <item itemvalue="Application.BSTClass" />
-        <item itemvalue="Application.BST" />
       </list>
     </recent_temporary>
   </component>
